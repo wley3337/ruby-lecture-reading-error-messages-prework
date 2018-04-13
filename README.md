@@ -37,6 +37,7 @@ lib/a_name_error.rb:3:in `<main>':
 * `3` is the line of code with the error.
 * `<main>` is the scope of the error.
 
+
 2) The description, the "why".
 
 ```
